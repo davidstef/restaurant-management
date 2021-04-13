@@ -1,0 +1,18 @@
+Bill NO. 1
+
+ID order: 2
+Table No. 2
+Date: Fri May 08 12:19:58 EEST 2020
+
+Name: Ciorba de burta
+Price: 14.0 RON
+
+Name: Piept de pui cu cartofi
+Price: 23.3 RON
+
+Name: Coca-Cola
+Price: 6.5 RON
+
+___________________________________________________________________
+
+Total price: 43.8 RON

@@ -1,0 +1,21 @@
+Bill NO. 0
+
+ID order: 1
+Table No. 1
+Date: Fri May 08 12:19:27 EEST 2020
+
+Name: Pizza
+Price: 25.5 RON
+
+Name: Coca-Cola
+Price: 6.5 RON
+
+Name: Piept de pui cu cartofi
+Price: 23.3 RON
+
+Name: Apa minerala
+Price: 4.5 RON
+
+___________________________________________________________________
+
+Total price: 59.8 RON
